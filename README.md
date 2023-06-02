@@ -1,1 +1,1 @@
-# accessing-a-relational-database
+# Exercícios do Tutorial Accessing a Relational Database do site go.dev
